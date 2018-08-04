@@ -1,0 +1,6 @@
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis\bin\Debug\Bob.Travis.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis\bin\Debug\Bob.Travis.pdb
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis\obj\Debug\Bob.Travis.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis\obj\Debug\Bob.Travis.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis\obj\Debug\Bob.Travis.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis\obj\Debug\Bob.Travis.pdb

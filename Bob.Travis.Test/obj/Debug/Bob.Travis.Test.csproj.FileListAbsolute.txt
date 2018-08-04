@@ -1,0 +1,12 @@
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Bob.Travis.Test.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Bob.Travis.Test.pdb
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Bob.Travis.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\nunit.framework.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Bob.Travis.pdb
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\nunit.framework.pdb
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\nunit.framework.xml
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Test.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Test.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Test.csproj.CopyComplete
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Test.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Test.pdb
