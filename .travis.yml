@@ -1,8 +1,11 @@
 language: csharp
 solution: Bob.Travis.sln
+before_install:
+  - sudo apt-get install nunit-console
 install:
   - nuget restore Bob.Travis.sln
   - nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release Bob.Travis.sln
-  - mono ./testrunner/NUnit.Runners.3.8.0/tools/nunit-console.exe ./Bob.Travis.Test/bin/Release/Bob.Travis.Test.dll
+after_script:
+  - nunit-console Bob.Travis.Test/bin/Release/Bob.Travis.Test.dll
