@@ -18,5 +18,14 @@ namespace Bob.Travis.Test
             Assert.AreEqual(PacketType.Init, result.Type);
             Assert.AreEqual(4, result.Priority);
         }
+
+        [Test]
+        public void ShouldGetProcessing7Packect()
+        {
+            String message = @"P:7";
+            var result = TravisPacketConvertor.Translate(message);
+            Assert.AreEqual(PacketType.Processing, result.Type);
+            Assert.AreEqual(7, result.Priority);
+        }
     }
 }
