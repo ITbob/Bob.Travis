@@ -2,8 +2,8 @@ language: csharp
 solution: Bob.Travis.sln
 notifications:
     email:
-        recipients:
-            - blanquet.bertrand@gmail.com
+        #recipients:
+            #- blanquet.bertrand@gmail.com
                 on_success: always
                 on_failure: always
 before_install:
@@ -16,3 +16,4 @@ script:
 after_script:
   - nunit-console Bob.Travis.Test/bin/Release/Bob.Travis.Test.dll
   - nunit-console Bob.Travis.Integration/bin/Release/Bob.Travis.Integration.dll
+  - make coverage
