@@ -9,6 +9,7 @@ namespace Bob.Travis
     public enum PacketType
     {
         None,
-        Init
+        Init,
+        Processing
     }
 }
