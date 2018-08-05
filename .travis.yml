@@ -10,7 +10,7 @@ script:
 after_script:
   - nunit-console Bob.Travis.Test/bin/Release/Bob.Travis.Test.dll
 notification:
-    email:
+    recipient:
         - blanquet.bertrand@gmail.com 
         on_success: always
         on_failure:always

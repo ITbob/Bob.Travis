@@ -1,0 +1,9 @@
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\bin\Debug\Bob.Travis.Global.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\bin\Debug\Bob.Travis.Global.pdb
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\bin\Debug\Bob.Travis.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\bin\Debug\Bob.Travis.pdb
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\obj\Debug\Bob.Travis.Global.csprojResolveAssemblyReference.cache
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\obj\Debug\Bob.Travis.Global.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\obj\Debug\Bob.Travis.Global.csproj.CopyComplete
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\obj\Debug\Bob.Travis.Global.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Global\obj\Debug\Bob.Travis.Global.pdb

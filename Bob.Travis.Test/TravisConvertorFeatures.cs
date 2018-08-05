@@ -11,6 +11,7 @@ namespace Bob.Travis.Test
     class TravisConvertorFeatures
     {
         [Test]
+        [Category("unit test")]
         public void ShouldGetInit4Packet()
         {
             String message = @"I:4";
@@ -20,6 +21,7 @@ namespace Bob.Travis.Test
         }
 
         [Test]
+        [Category("unit test")]
         public void ShouldGetProcessing7Packect()
         {
             String message = @"P:7";

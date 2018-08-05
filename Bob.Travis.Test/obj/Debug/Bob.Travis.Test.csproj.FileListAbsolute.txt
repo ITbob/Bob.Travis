@@ -10,3 +10,12 @@ C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Tes
 C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Test.csproj.CopyComplete
 C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Test.dll
 C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\obj\Debug\Bob.Travis.Test.pdb
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Castle.Core.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Moq.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\System.ValueTuple.dll
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Castle.Core.xml
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Moq.pdb
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\Moq.xml
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Freddy\source\repos\Bob.Travis\Bob.Travis.Test\bin\Debug\System.ValueTuple.xml
