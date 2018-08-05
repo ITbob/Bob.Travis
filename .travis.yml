@@ -9,8 +9,10 @@ script:
   - xbuild /p:Configuration=Release Bob.Travis.sln
 after_script:
   - nunit-console Bob.Travis.Test/bin/Release/Bob.Travis.Test.dll
+  - nunit-console Bob.Travis.Integration/bin/Release/Bob.Travis.Integration.dll
 notification:
-    recipient:
-        - blanquet.bertrand@gmail.com 
-        on_success: always
-        on_failure:always
+    email:
+        recipient:
+            - blanquet.bertrand@gmail.com 
+            on_success: always
+            on_failure: always
