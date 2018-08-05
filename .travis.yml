@@ -1,11 +1,9 @@
 language: csharp
 solution: Bob.Travis.sln
 notifications:
-    email:true  
-        recipients:
-            - blanquet.bertrand@gmail.com 
-            on_success: always
-            on_failure: always
+    email:
+        on_success: always
+        on_failure: always
 before_install:
   - sudo apt-get install nunit-console
 install:
