@@ -12,7 +12,7 @@ after_script:
   - nunit-console Bob.Travis.Integration/bin/Release/Bob.Travis.Integration.dll
 notifications:
     email:
-        recipient:
+        recipients:
             - blanquet.bertrand@gmail.com 
             on_success: always
             on_failure: always
